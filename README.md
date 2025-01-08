@@ -1,0 +1,2 @@
+Esta API Node.js, construída com Express e Prisma, oferece uma solução robusta e escalável para gerenciar informações de usuários. Com endpoints intuitivos para criação, pesquisa, edição e exclusão de usuarios, ela permite que você construa aplicações que exigem um controle preciso sobre os dados dos seus usuários. 
+Benefícios: Agilidade no desenvolvimento, segurança, personalização e integração com diversas tecnologias.
